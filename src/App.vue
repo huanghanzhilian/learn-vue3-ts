@@ -4,6 +4,7 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
+  <l-text text="dd" />
   <div>hello</div>
   <Practice1 />
 </template>
